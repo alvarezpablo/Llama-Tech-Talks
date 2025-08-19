@@ -1,13 +1,14 @@
-# Módulo 4 – Fine-tuning con QLoRA
+# Módulo 4 – Fine-tuning con QLoRA y Unsloth + RAG Optimizado
 
 ## Contenido
+- 📑 Diapositivas: “Módulo 4 - Tecnicas-Avanzadas-de-Fine-Tuning-LLaMA-31.pdf”
 - **🆕 Llama3.1_Unsloth_FineTuning_Optimizado.ipynb**: **RECOMENDADO** - Fine-tuning ultra-eficiente con Unsloth (2x más rápido, 60% menos memoria)
 - **🔗 RAG_Modelo_Optimizado_Unsloth.ipynb**: **RAG SIN OLLAMA** - Sistema RAG completo usando directamente el modelo optimizado
 - **🎯 Evaluacion_Modelo_Optimizado_Simple.ipynb**: **SIN CONFLICTOS** - Evaluación directa sin instalaciones, evita errores PyTorch/torchaudio
 - **⚡ Evaluacion_Optimizada_Modelo_HF.ipynb**: **EVALUACIÓN CON TU CÓDIGO OPTIMIZADO** - Usa FastLanguageModel.for_inference() y chat templates optimizados
 - **🧪 Probar_Modelo_FineTuneado_HuggingFace.ipynb**: **EVALUACIÓN COMPLETA** - Tests comprehensivos del modelo `alvarezpablo/llama3.1-8b-finetune-metaday`
 - **🔧 Solucion_Errores_Comunes.ipynb**: **EJECUTAR PRIMERO SI HAY ERRORES** - Soluciones para protobuf, CUDA, instalación, etc.
-- **🔗 Usar_Modelo_FineTuneado_con_Ollama.ipynb**: Cómo usar tu modelo fine-tuneado con Ollama (conexión con Módulo 5)
+- **🔗 Usar_Modelo_FineTuneado_con_Ollama.ipynb**: Cómo usar tu modelo fine-tuneado con Ollama (opcional)
 - Ejemplo_Qlora_cpu_with_outputs.ipynb: Fine-tuning QLoRA optimizado para CPU con salidas incluidas
 - Ejemplo_Qlora_gpu_A100_no_outputs.ipynb: Fine-tuning QLoRA para GPU A100 (sin salidas pre-ejecutadas)
 

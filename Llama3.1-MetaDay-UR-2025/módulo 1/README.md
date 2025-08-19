@@ -3,6 +3,7 @@
 ## Contenido
 - **🎯 demo_atencion.ipynb**: **ACTUALIZADO** - Demostración interactiva avanzada de mecanismos de atención con visualizaciones mejoradas
 - laboratorio-modulo-n1.ipynb: Ejercicios prácticos de fundamentos y atención
+- 📑 Diapositivas: “Módulo 1 - Fundamentos de Llama 3.1 y Transformers.pdf”
 
 ## Objetivos
 - Entender el mecanismo de atención a alto nivel

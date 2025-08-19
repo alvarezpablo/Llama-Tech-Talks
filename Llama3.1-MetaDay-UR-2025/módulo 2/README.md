@@ -2,10 +2,12 @@
 
 ## Contenido
 - laboratorio-modulo-n2.ipynb: Ejercicios prácticos del módulo 2.
+- 📑 Diapositivas: “Módulo 2 - Configuración de Entorno.pdf”
 
 ## Objetivos
 - Profundizar en conceptos intermedios de Llama 3.1
 - Aplicar técnicas de procesamiento de texto y embeddings
+- Introducir prácticas de evaluación ligera de outputs
 
 ## Requisitos
 - Python 3.10+
@@ -22,8 +24,9 @@
 Si el notebook requiere librerías específicas, instálalas según aparezcan en las primeras celdas:
 ```bash
 pip install sentence-transformers
-pip install datasets
-pip install accelerate
+pip install datasets accelerate
+# Opcional para evaluación ligera
+pip install evaluate rouge-score
 ```
 
 ## Notas

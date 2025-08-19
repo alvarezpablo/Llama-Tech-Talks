@@ -2,10 +2,12 @@
 
 ## Contenido
 - laboratorio-modulo-n3.ipynb: Ejercicios prácticos del módulo 3.
+- 📑 Diapositivas: “Módulo 3 - Deployment de Ollama.pdf”
 
 ## Objetivos
 - Trabajar con técnicas avanzadas de Llama 3.1
 - Explorar casos de uso específicos y optimizaciones
+- Preparar bases para fine-tuning eficiente (Unsloth) y evaluación
 
 ## Requisitos
 - Python 3.10+
@@ -25,9 +27,8 @@
 Según el contenido del notebook, podrías necesitar:
 ```bash
 pip install accelerate
-pip install evaluate
-pip install scikit-learn
-pip install seaborn
+pip install evaluate bert-score rouge-score
+pip install scikit-learn seaborn
 ```
 
 ## Notas
