@@ -2,6 +2,7 @@
 
 ## Contenido
 - **🆕 Llama3.1_Unsloth_FineTuning_Optimizado.ipynb**: **RECOMENDADO** - Fine-tuning ultra-eficiente con Unsloth (2x más rápido, 60% menos memoria)
+- **🔗 RAG_Modelo_Optimizado_Unsloth.ipynb**: **RAG SIN OLLAMA** - Sistema RAG completo usando directamente el modelo optimizado
 - **🎯 Evaluacion_Modelo_Optimizado_Simple.ipynb**: **SIN CONFLICTOS** - Evaluación directa sin instalaciones, evita errores PyTorch/torchaudio
 - **⚡ Evaluacion_Optimizada_Modelo_HF.ipynb**: **EVALUACIÓN CON TU CÓDIGO OPTIMIZADO** - Usa FastLanguageModel.for_inference() y chat templates optimizados
 - **🧪 Probar_Modelo_FineTuneado_HuggingFace.ipynb**: **EVALUACIÓN COMPLETA** - Tests comprehensivos del modelo `alvarezpablo/llama3.1-8b-finetune-metaday`
@@ -52,6 +53,14 @@
 4. **Modelo pre-optimizado**: Ya tiene optimizaciones Unsloth del fine-tuning
 5. **Tests focalizados**: Verificación rápida + tests extendidos opcionales
 6. **Tiempo estimado**: 5-10 min para verificación, 15-20 min completo
+
+### 🔗 OPCIÓN RAG OPTIMIZADO: Sin Ollama
+1. Abre `RAG_Modelo_Optimizado_Unsloth.ipynb`
+2. **Sistema RAG completo**: Retrieval + Generation con tu modelo optimizado
+3. **Sin Ollama**: Usa directamente el modelo Unsloth + HuggingFace embeddings
+4. **Ventajas**: 2-3x más rápido, control total, sin dependencias externas
+5. **Dataset incluido**: Chistes en español para demostración
+6. **Tiempo estimado**: 20-30 min para setup completo + tests
 
 ### 🚀 Opción FINE-TUNING: Unsloth Optimizado
 1. Abre `Llama3.1_Unsloth_FineTuning_Optimizado.ipynb`
@@ -113,3 +122,5 @@
 - ✅ **Métricas automáticas**: Velocidad, calidad, completitud, estructura
 - ✅ **Código optimizado validado**: FastLanguageModel.for_inference() + chat templates
 - ✅ **Evaluación en tiempo real**: TextStreamer para visualización inmediata
+- ✅ **RAG optimizado**: Sistema completo sin Ollama, 2-3x más rápido
+- ✅ **Embeddings locales**: HuggingFace multilingüe en lugar de Ollama
