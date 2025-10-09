@@ -29,6 +29,12 @@ La **Secretaría de Innovación, Ciencia y Tecnología (SICYT)**, junto a su soc
 - **Implementar** soluciones on-premise para garantizar soberanía de datos
 - **Presentar** iniciativas en la Semana de la IA 2025
 
+### 👨‍🏫 **Relator**
+**Pablo Álvarez** - Especialista en IA y Machine Learning
+- 🌐 **Multivérsica**: [https://multiversica.com/](https://multiversica.com/)
+- 🎓 **Experiencia**: Implementación de soluciones IA en sector público y privado
+- 🏛️ **Especialización**: Modelos de lenguaje para aplicaciones gubernamentales
+
 ---
 
 ## 📚 **Estructura del Programa**
