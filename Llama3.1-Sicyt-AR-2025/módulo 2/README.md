@@ -1,8 +1,14 @@
-# 🦙 Módulo 2: Introducción a Llama 3.1
+# 🦙 Módulo 2: Configuración de Entorno
 
 ## 🎯 **Objetivo del Módulo**
 
 Dominar el uso práctico de Llama 3.1, desde la carga optimizada del modelo hasta la implementación de casos de uso específicos para aplicaciones gubernamentales.
+
+## 📖 **Presentación del Módulo**
+
+**[📊 Módulo 2 - Configuración de Entorno.pdf](./Módulo%202%20-%20Configuración%20de%20Entorno.pdf)**
+
+Esta presentación cubre la configuración completa del entorno de desarrollo y las mejores prácticas para el deployment de Llama 3.1.
 
 ---
 
@@ -24,7 +30,14 @@ Dominar el uso práctico de Llama 3.1, desde la carga optimizada del modelo hast
 
 ## 📁 **Contenido del Módulo**
 
-### 📓 **laboratorio-modulo-n2.ipynb**
+### 📖 **Presentación**
+- **[Módulo 2 - Configuración de Entorno.pdf](./Módulo%202%20-%20Configuración%20de%20Entorno.pdf)**
+  - Configuración de entornos de desarrollo
+  - Instalación y configuración de dependencias
+  - Mejores prácticas para deployment
+  - Optimización de recursos
+
+### 📓 **laboratorio_modulo_n2.ipynb**
 **Notebook principal con demostración completa de Llama 3.1**
 
 #### 🔧 **Configuración Automática**
@@ -273,10 +286,11 @@ Solución: Verificar conexión a internet
 
 ## ⏱️ **Tiempo Estimado**
 
+- **Presentación PDF**: 30 minutos
 - **Configuración inicial**: 30 minutos
 - **Carga de modelo**: 15 minutos
 - **Demostraciones**: 120 minutos
-- **Ejercicios prácticos**: 60 minutos
+- **Ejercicios prácticos**: 45 minutos
 - **Total**: **3-4 horas**
 
 ---

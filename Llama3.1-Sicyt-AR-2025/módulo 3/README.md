@@ -1,8 +1,14 @@
-# 🐳 Módulo 3: Deployment y Consumo con Ollama
+# 🐳 Módulo 3: Deployment de Ollama
 
 ## 🎯 **Objetivo del Módulo**
 
 Aprender a desplegar Llama 3.1 en producción usando Ollama, desarrollar aplicaciones que consuman el modelo via API REST, y crear soluciones escalables para entornos gubernamentales.
+
+## 📖 **Presentación del Módulo**
+
+**[📊 Módulo 3 - Deployment de Ollama.pdf](./Módulo%203%20-%20Deployment%20de%20Ollama.pdf)**
+
+Esta presentación cubre las estrategias de deployment, arquitecturas de producción y mejores prácticas para implementar Ollama en entornos gubernamentales.
 
 ---
 
@@ -24,6 +30,13 @@ Aprender a desplegar Llama 3.1 en producción usando Ollama, desarrollar aplicac
 ---
 
 ## 📁 **Contenido del Módulo**
+
+### 📖 **Presentación**
+- **[Módulo 3 - Deployment de Ollama.pdf](./Módulo%203%20-%20Deployment%20de%20Ollama.pdf)**
+  - Arquitecturas de deployment
+  - Configuración de producción
+  - Escalabilidad y alta disponibilidad
+  - Monitoreo y mantenimiento
 
 ### 📓 **laboratorio-modulo-n3.ipynb**
 **Guía completa de instalación, configuración y uso de Ollama**
@@ -441,10 +454,11 @@ ollama list
 
 ## ⏱️ **Tiempo Estimado**
 
+- **Presentación PDF**: 30 minutos
 - **Instalación y configuración**: 45 minutos
 - **Primeras pruebas con API**: 30 minutos
-- **Desarrollo de aplicación**: 90 minutos
-- **Casos de uso gubernamentales**: 60 minutos
+- **Desarrollo de aplicación**: 75 minutos
+- **Casos de uso gubernamentales**: 45 minutos
 - **Total**: **3-4 horas**
 
 ---

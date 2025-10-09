@@ -1,8 +1,14 @@
-# 📚 Módulo 1: Fundamentos de Modelos de Lenguaje
+# 📚 Módulo 1: Fundamentos de Llama 3.1 y Transformers
 
 ## 🎯 **Objetivo del Módulo**
 
 Establecer las bases teóricas y prácticas necesarias para comprender el funcionamiento de los modelos de lenguaje modernos, con especial énfasis en los conceptos que sustentan Llama 3.1.
+
+## 📖 **Presentación del Módulo**
+
+**[📊 Módulo 1 - Fundamentos de Llama 3.1 y Transformers.pdf](./Módulo%201%20-%20Fundamentos%20de%20Llama%203.1%20y%20Transformers.pdf)**
+
+Esta presentación cubre los conceptos fundamentales que se implementarán en los notebooks prácticos.
 
 ---
 
@@ -42,7 +48,14 @@ Establecer las bases teóricas y prácticas necesarias para comprender el funcio
 
 ## 📁 **Archivos del Módulo**
 
-### 📓 **laboratorio-modulo-n1.ipynb**
+### 📖 **Presentación**
+- **[Módulo 1 - Fundamentos de Llama 3.1 y Transformers.pdf](./Módulo%201%20-%20Fundamentos%20de%20Llama%203.1%20y%20Transformers.pdf)**
+  - Conceptos teóricos fundamentales
+  - Arquitectura de Transformers
+  - Introducción a Llama 3.1
+  - Casos de uso gubernamentales
+
+### 📓 **laboratorio_modulo_n1.ipynb**
 **Notebook principal con implementaciones prácticas**
 
 #### 🔧 **Clase ConceptosBasicos**
@@ -79,12 +92,18 @@ class ConceptosBasicos:
 pip install torch transformers matplotlib seaborn numpy
 ```
 
-### 2️⃣ **Ejecutar Laboratorio Principal**
+### 2️⃣ **Revisar Presentación**
 ```bash
-jupyter lab laboratorio-modulo-n1.ipynb
+# Abrir la presentación PDF para conceptos teóricos
+open "Módulo 1 - Fundamentos de Llama 3.1 y Transformers.pdf"
 ```
 
-### 3️⃣ **Explorar Demo Interactiva**
+### 3️⃣ **Ejecutar Laboratorio Principal**
+```bash
+jupyter lab laboratorio_modulo_n1.ipynb
+```
+
+### 4️⃣ **Explorar Demo Interactiva**
 ```bash
 jupyter lab demo_atencion.ipynb
 ```
@@ -192,10 +211,11 @@ frase = "El Ministerio anuncia nueva política digital"
 
 ## ⏱️ **Tiempo Estimado**
 
-- **Lectura de conceptos**: 45 minutos
+- **Presentación PDF**: 30 minutos
+- **Lectura de conceptos**: 30 minutos
 - **Laboratorio principal**: 90 minutos
 - **Demo interactiva**: 30 minutos
-- **Ejercicios adicionales**: 45 minutos
+- **Ejercicios adicionales**: 30 minutos
 - **Total**: **3-4 horas**
 
 ---
@@ -203,7 +223,7 @@ frase = "El Ministerio anuncia nueva política digital"
 ## ➡️ **Siguiente Paso**
 
 Una vez completado este módulo, continúa con:
-**[Módulo 2: Introducción a Llama 3.1](../módulo%202/README.md)**
+**[Módulo 2: Configuración de Entorno](../módulo%202/README.md)**
 
 ---
 

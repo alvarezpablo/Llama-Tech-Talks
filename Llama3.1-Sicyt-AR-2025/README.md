@@ -21,28 +21,43 @@ La **Secretaría de Innovación, Ciencia y Tecnología (SICYT)**, junto a su soc
 ## 📚 **Estructura del Programa**
 
 ### 🏗️ **Módulo 1: Fundamentos de Modelos de Lenguaje**
+- 📖 **[Presentación PDF](./módulo%201/Módulo%201%20-%20Fundamentos%20de%20Llama%203.1%20y%20Transformers.pdf)**
 - 🔤 **Tokenización y Embeddings**
 - 👁️ **Mecanismos de Atención**
 - 📊 **Comparación de Arquitecturas**
 - 🛠️ **Preprocesamiento de Texto**
+- 💻 **[Laboratorio Práctico](./módulo%201/)**
 
-### 🦙 **Módulo 2: Introducción a Llama 3.1**
+### 🦙 **Módulo 2: Configuración de Entorno**
+- 📖 **[Presentación PDF](./módulo%202/Módulo%202%20-%20Configuración%20de%20Entorno.pdf)**
 - ⚡ **Carga y Configuración Optimizada**
 - 💬 **Capacidades Conversacionales**
 - 🌍 **Soporte Multilingüe**
 - 🔧 **Generación de Código**
+- 💻 **[Laboratorio Práctico](./módulo%202/)**
 
 ### 🐳 **Módulo 3: Deployment con Ollama**
+- 📖 **[Presentación PDF](./módulo%203/Módulo%203%20-%20Deployment%20de%20Ollama.pdf)**
 - 🔧 **Instalación y Configuración**
 - 🌐 **API REST y Integración**
 - 📱 **Desarrollo de Aplicaciones**
 - ⚙️ **Parámetros Avanzados**
+- 💻 **[Laboratorio Práctico](./módulo%203/)**
 
-### ⚡ **Módulo 4: Optimización y Fine-tuning**
+### ⚡ **Módulo 4: Técnicas Avanzadas de Fine-Tuning**
+- 📖 **[Presentación PDF](./módulo%204/Módulo%204%20-%20Tecnicas-Avanzadas-de-Fine-Tuning-LLaMA-31.pdf)**
 - 🎯 **Fine-tuning con Unsloth**
 - 🔍 **Sistemas RAG (Retrieval-Augmented Generation)**
 - 📊 **Evaluación de Modelos**
 - 🛠️ **Solución de Problemas**
+- 💻 **[Laboratorio Práctico](./módulo%204/)**
+
+### 🏛️ **Módulo 5: Gobierno y Casos de Uso**
+- 📖 **[Presentación PDF](./módulo%205/Módulo%205%20-%20Gobierno%20y%20Casos%20de%20Uso.pdf)**
+- 🏢 **Aplicaciones Gubernamentales**
+- 🔒 **Seguridad y Compliance**
+- 📋 **Casos de Estudio**
+- 🚀 **Implementación en Producción**
 
 ---
 
@@ -101,12 +116,13 @@ jupyter lab
 
 ## 📖 **Guía de Uso por Módulos**
 
-| Módulo | Duración | Nivel | Descripción |
-|--------|----------|-------|-------------|
-| **1** | 2-3 horas | Básico | Fundamentos teóricos y prácticos |
-| **2** | 3-4 horas | Intermedio | Llama 3.1 hands-on |
-| **3** | 2-3 horas | Intermedio | Deployment y APIs |
-| **4** | 4-5 horas | Avanzado | Optimización y fine-tuning |
+| Módulo | Duración | Nivel | Descripción | Materiales |
+|--------|----------|-------|-------------|------------|
+| **1** | 2-3 horas | Básico | Fundamentos teóricos y prácticos | 📖 PDF + 💻 Notebooks |
+| **2** | 3-4 horas | Intermedio | Configuración de entorno | 📖 PDF + 💻 Notebooks |
+| **3** | 2-3 horas | Intermedio | Deployment y APIs | 📖 PDF + 💻 Notebooks |
+| **4** | 4-5 horas | Avanzado | Optimización y fine-tuning | 📖 PDF + 💻 Notebooks |
+| **5** | 1-2 horas | Estratégico | Gobierno y casos de uso | 📖 PDF |
 
 ---
 
