@@ -71,11 +71,11 @@ El **Tecnológico de Monterrey (TEC)**, en colaboración con **Meta**, presenta 
 - 🛠️ **Solución de Problemas**
 - 💻 **[Laboratorios Prácticos](./módulo%204/)**
 
-### 🏛️ **Módulo 5: Gobierno y Casos de Uso**
+### 🏫 **Módulo 5: Educación y Casos de Uso Empresariales**
 - 📚 **[📖 README Completo](./módulo%205/README.md)** | 📖 **[Presentación PDF](./módulo%205/Módulo%205%20-%20Gobierno%20y%20Casos%20de%20Uso.pdf)**
-- 🏢 **Aplicaciones Gubernamentales**
-- 🔒 **Seguridad y Compliance**
-- 📋 **Casos de Estudio**
+- 🎓 **Aplicaciones Académicas e Investigación**
+- 🏢 **Casos de Uso Empresariales**
+- 🔒 **Seguridad y Privacidad Académica**
 - 🚀 **Implementación en Producción**
 
 ---
