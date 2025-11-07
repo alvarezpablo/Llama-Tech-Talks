@@ -116,7 +116,7 @@ Optimizar procesos empresariales mediante IA para empresas colaboradoras del TEC
 #### 🏗️ **Arquitectura Segura**
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Ciudadano     │    │   API Gateway   │    │   Llama 3.1     │
+│   Usuario       │    │   API Gateway   │    │   Llama 3.1     │
 │                 │◄──►│   + Auth        │◄──►│   On-Premise    │
 │   (Frontend)    │    │   + Rate Limit  │    │   + Encryption  │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
@@ -124,11 +124,11 @@ Optimizar procesos empresariales mediante IA para empresas colaboradoras del TEC
 
 ### 📋 **Compliance Normativo**
 
-#### 🇦🇷 **Normativa Argentina**
-- **Ley de Protección de Datos Personales** (25.326)
-- **Decreto de Gobierno Digital** (1063/2016)
-- **Ley de Acceso a la Información Pública** (27.275)
-- **Normativas sectoriales** específicas
+#### 🇲🇽 **Normativa Mexicana y Estándares Internacionales**
+- **Ley Federal de Protección de Datos Personales en Posesión de Particulares**
+- **Normas de Seguridad de Información** (ISO 27001)
+- **Estándares de Privacidad** (GDPR compatible)
+- **Normativas sectoriales** específicas por industria
 
 #### ✅ **Checklist de Compliance**
 - [ ] **Consentimiento informado** para uso de datos
@@ -249,7 +249,7 @@ Optimizar procesos empresariales mediante IA para empresas colaboradoras del TEC
 - **Precisión**: > 90% en tareas específicas
 
 ### 📈 **Indicadores de Negocio**
-- **Satisfacción ciudadana**: > 4.5/5
+- **Satisfacción de usuarios**: > 4.5/5
 - **Reducción de costos**: > 30%
 - **Tiempo de resolución**: < 50% del baseline
 - **Adopción interna**: > 80% de usuarios
@@ -271,7 +271,7 @@ Optimizar procesos empresariales mediante IA para empresas colaboradoras del TEC
 Al completar este módulo, los participantes podrán:
 
 ### ✅ **Conocimientos Estratégicos**
-- Identificar casos de uso apropiados para IA gubernamental
+- Identificar casos de uso apropiados para IA en educación y empresa
 - Evaluar consideraciones de seguridad y compliance
 - Desarrollar roadmaps de implementación
 - Calcular ROI y justificar inversiones
@@ -293,13 +293,13 @@ Al completar este módulo, los participantes podrán:
 ## 📚 **Recursos Adicionales**
 
 ### 🔗 **Enlaces Útiles**
-- [Gobierno Digital Argentina](https://www.argentina.gob.ar/jefatura/innovacion-publica)
-- [ONTI - Oficina Nacional de Tecnologías de Información](https://www.argentina.gob.ar/onti)
-- [Marco de Interoperabilidad](https://www.argentina.gob.ar/onti/marco-de-interoperabilidad)
+- [Tecnológico de Monterrey - Innovación](https://www.tec.mx)
+- [Meta AI - Llama Models](https://www.meta.com/ai/llama/)
+- [Hugging Face - Model Hub](https://huggingface.co/models)
 
 ### 📖 **Documentación Oficial**
-- [Plan de Modernización del Estado](https://www.argentina.gob.ar/modernizacion)
-- [Estrategia de Gobierno Digital](https://www.argentina.gob.ar/jefatura/innovacion-publica/gobierno-digital)
+- [Llama 3.1 Documentation](https://llama.meta.com/)
+- [Estándares de Seguridad ISO 27001](https://www.iso.org/isoiec-27001-information-security-management.html)
 
 ---
 
@@ -308,7 +308,7 @@ Al completar este módulo, los participantes podrán:
 ### 🚀 **Después de la Capacitación**
 1. **Desarrollar proyecto piloto** en su organización
 2. **Formar equipo técnico** especializado
-3. **Presentar en Semana IA 2025** los resultados
+3. **Compartir resultados** con la comunidad TEC
 4. **Implementar en producción** la solución
 
 ### 🤝 **Soporte Continuo**
